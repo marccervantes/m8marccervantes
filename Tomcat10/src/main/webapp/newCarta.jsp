@@ -211,13 +211,6 @@
  	</select>
  	
  	<br />
- 	<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
-	  <label for="soyHumano"> Soc huma</label><br>
-	  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
-	  <label for="soyRobot"> Soc Robot</label><br>
-  	<input type="submit" value="Submit">
-  	
-  	<br />
  
  	<input name="ver" type="button" value="Veure la carta / Actualitzar la carta" />
  	<input type="submit" value="Guardar la carta">
