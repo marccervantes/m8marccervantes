@@ -8,7 +8,7 @@
 <head>
 <meta charset="UTF-8">
 <link rel="stylesheet" href="css/style.css">
-<title>M8</title>
+<title>M8-captcha</title>
 </head>
 <body>
 <%!public int dau() {
